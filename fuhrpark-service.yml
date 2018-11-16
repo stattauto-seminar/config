@@ -1,0 +1,6 @@
+application:
+    info: Fuhrpark-Service
+server:
+    port: 8085
+welcome:
+    message: moin
